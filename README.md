@@ -11,7 +11,7 @@
 #define buzzer  13
 
 //buzzer sound//
- int sound = 300;t
+ int sound = 300;
 
 //veryfing the output and input pin's//
  void setup()
